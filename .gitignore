@@ -1,0 +1,8 @@
+.vs
+cuda-str.*
+x64
+._*
+CppProperties.json
+shared-memory-matrix-multiplication.sln
+shared-memory-matrix-multiplication.vcxproj
+shared-memory-matrix-multiplication.vcxproj.user
